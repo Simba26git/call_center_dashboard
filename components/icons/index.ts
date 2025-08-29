@@ -1,0 +1,7 @@
+export { SlackLogo } from './slack-logo'
+export { AsanaLogo } from './asana-logo'
+export { HubSpotLogo } from './hubspot-logo'
+export { SalesforceLogo } from './salesforce-logo'
+export { MailchimpLogo } from './mailchimp-logo'
+export { QuickBooksLogo } from './quickbooks-logo'
+export { StripeLogo } from './stripe-logo'
