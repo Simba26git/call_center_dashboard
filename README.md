@@ -1,5 +1,7 @@
 # Call Center Management System
 
+> **🚧 This project is currently under active development**
+
 A modern, production-grade call center frontend application built with Next.js 15, React, and TypeScript. This comprehensive system provides tools for agents, supervisors, and administrators to manage customer interactions, tickets, orders, and analytics.
 
 ## 🚀 Features
@@ -239,6 +241,8 @@ For technical support, feature requests, or customization inquiries, please cont
 ## 📄 License
 
 This project is proprietary software developed by Simabarashe Gunundu. All rights reserved.
+
+> **Note**: This application is currently in development. Features and functionality may be subject to change.
 
 ---
 
